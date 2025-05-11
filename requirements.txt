@@ -1,0 +1,10 @@
+langchain 
+langchainhub
+langcahin_ollama
+transformers
+langchain_community 
+gradio
+chromadb
+PyMuPDF
+llama-index  
+ollama
